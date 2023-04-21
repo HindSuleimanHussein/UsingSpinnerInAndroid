@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="choose_book_type">Choose Book Category:</string>
+    <string name="show">Show</string>
+
+    <string-array name="Types">
+        <item>Programming</item>
+        <item>Database</item>
+        <item>Software Engineering</item>
+    </string-array>
+
+</resources>
